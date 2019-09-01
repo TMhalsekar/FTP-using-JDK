@@ -12,8 +12,7 @@ Steps for File Transfer:-
 
 There are two scenarios:
 
-Using an InputStream-based approach: this is the simplest way, since we let the system does the ins and outs. There is no additional code, just passing
-the InputStream object into the appropriate method,
+Using an InputStream-based approach: this is the simplest way, since we let the system does the ins and outs. There is no additional code, just passing the InputStream object into the appropriate method.
 Using an OutputStream-based approach: this is more complex way, but more control. Typically we have to write some code that reads bytes from
 the InputStream of the local file and writes those bytes into the OutputStream.
 
