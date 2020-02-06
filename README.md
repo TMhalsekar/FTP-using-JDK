@@ -4,7 +4,7 @@ File Transfer Protocol system implemented using JDK
 
 Steps for File Transfer:-
 
-•	Connect to the Server
+•	Connect to the Server.
 •	Set file type to be transferred to binary.
 •	Create an InputStream for the local file.
 •	Construct path of the remote file on the server. The path can be absolute relative to the current working directory.
